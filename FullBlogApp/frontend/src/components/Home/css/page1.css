@@ -1,0 +1,12 @@
+.home-pg1 {
+  height: 87vh;
+}
+
+.name-container{
+    background-image: linear-gradient(320deg, red, purple);
+    color: white;
+    border-radius: 30px;
+}
+.name-container h1{
+    font-size: 3rem;
+}
